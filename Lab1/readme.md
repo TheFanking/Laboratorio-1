@@ -19,6 +19,7 @@ Benjamín Leiva &emsp; &emsp; &emsp; &nbsp; 21.679.330-7
 ## Tabla de contenidos
 * [Descripción del laboratorio](#descripción-del-laboratorio)
 * [Herramientas](#herramientas)
+* [Como ejecutar la simulación webots](#instrucciones)
 
 <br><br><br><br><br>
 
