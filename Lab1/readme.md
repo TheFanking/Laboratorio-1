@@ -23,7 +23,14 @@ Benjamín Leiva &emsp; &emsp; &emsp; &nbsp; 21.679.330-7
 
 <br><br><br><br><br>
 
-## Descripción del laboratorio
+## 2. Descripción del laboratorio
 Este laboratorio tiene como objetivo realizar un análisis cinemático de un robot móvil diferencial mediante el software de simulación Webots. A través de la integración de conceptos sobre actuadores y modelos matemáticos de movimiento, se busca programar trayectorias específicas para evaluar el comportamiento dinámico del sistema y validar las fórmulas cinemáticas en un entorno controlado.  
 
-## Herramientas
+## 3. Herramientas
+Para el desarrollo de este laboratorio se utilizaron las siguientes herramientas tecnológicas: Python (versión 3.14.3) y Webots (versión R2025a).
+
+### 3.1 Python
+Se empleó el lenguaje de programación Python para programar la lógica de control de los robots. Esto permitió gestionar parámetros como la velocidad y ejecutar las trayectorias necesarias para conformar las figuras propuestas en la guía de laboratorio.
+
+### 3.2 Webots
+Se utilizó Webots como entorno de simulación para modelar y observar el comportamiento del robot de tipo diferencial e-puck. Este software permitió visualizar los distintos casos de estudio mencionados anteriormente y proporcionó la interfaz necesaria para integrar el código de control desarrollado en Python.
