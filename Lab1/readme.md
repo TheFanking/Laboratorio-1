@@ -102,10 +102,34 @@ Al sustituir estas igualdades en las ecuaciones de movimiento, obtenemos las fó
 De las ecuaciones anteriores se derivan tres casos canónicos que son la base de todos los desafíos:
 <img width="950" height="357" alt="Captura desde 2026-04-12 21-03-22" src="https://github.com/user-attachments/assets/c92414b7-280d-4e30-a580-25a8f7c1b781" />
 
-## 6) Análisis
+## 6. Video del funcionamiento del robot en los diferentes desafio
+
+En esta sección mostraremos los diferentes tipos de movimientos que nos pidieron hacer en el laboratorio para que se vea como funcionan.
+
+### Video 1
+https://github.com/user-attachments/assets/0fb1f973-6c04-4efa-aaad-60bacce3500b
+
+Este video es del caso 1 donde el robot hace movimientos rectos.
+
+### Video 2
+https://github.com/user-attachments/assets/3cbfa0d9-7147-427f-b0fd-579f24b18966
+
+Este video es del caso 2 donde el robot hace movimientos curvos.
+
+### Video 3
+https://github.com/user-attachments/assets/c7701bdf-aeb7-4f99-a894-0ef48aaca723
+
+Este video es del caso 3 donde el robot hace movimientos circulares.
+
+### Video 4
+https://github.com/user-attachments/assets/90ee89bc-44a2-4306-8e9a-691f230f8f68
+
+Este video es del caso 4 donde el robot hace movimientos cuadrados.
+
+## 7. Análisis
 
 ### 1. Código del Controlador en Webots
-El siguiente código Python fue el efectivamente utilizado durante el laboratorio. Implementa los cuatro desafíos en un único controlador seleccionable mediante la variable DESAFIO. Se presentan los fragmentos relevantes para cada experimento analizado.
+El siguiente código Python fue el efectivamente utilizado durante el laboratorio. Implementa los cuatro desafíos en un único controlador seleccionable mediante la variable DESAFIO. Se presentan los fragmentos relevantes para cada experimento analizado. 
 ##### 1.1 Estructura general del controlador
 
 ```
@@ -350,7 +374,7 @@ El resultado experimental confirmó un círculo cerrado y repetitivo, con la rue
 >En DESAFIO 3: $$v_l$$=2.0, $$v_r$$=5.0 → R ≈ 0.061 m, T ≈ 5.32 s por vuelta.
 >A diferencia de la rotación pura (R=0), en el círculo el robot también se traslada (v ≠ 0).
 
-## 7) Conclusiones
+## 8. Conclusiones
 Los cuatro desafíos ejecutados en Webots permitieron verificar experimentalmente los tres comportamientos fundamentales del modelo cinemático diferencial y construir una trayectoria compuesta (cuadrado) mediante control por temporización. Las conclusiones principales son:
 
 * El modelo cinemático diferencial es simple y poderoso: dos velocidades escalares determinan completamente el movimiento plano del robot. La suma controla la rapidez y la diferencia controla la curvatura.
