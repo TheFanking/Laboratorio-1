@@ -322,7 +322,7 @@ En el DESAFIO 4 esta rotación pura se aplica en cada esquina del cuadrado: con 
 >En el DESAFIO 4 se usa esta rotación para las esquinas del cuadrado.
 
 ##### Pregunta 4: ¿Qué tipo de movimiento permite dibujar un círculo?
-Para dibujar un círculo se requiere que el robot mantenga una relación de velocidades constante $$v_r/v_l$$ = constante, con $$v_r$4 ≠ $$v_l$$ y ambas del mismo signo positivo. Esto garantiza que ω y v sean constantes en el tiempo, produciendo un radio de curvatura fijo R.
+Para dibujar un círculo se requiere que el robot mantenga una relación de velocidades constante $$v_r/v_l$$ = constante, con $$v_r$$ ≠ $$v_l$$ y ambas del mismo signo positivo. Esto garantiza que ω y v sean constantes en el tiempo, produciendo un radio de curvatura fijo R.
 
 `Condición: vr = cte,  vl = cte,  vr ≠ vl,  mismo signo`  
 
