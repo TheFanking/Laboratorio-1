@@ -16,13 +16,6 @@ Benjamín Leiva &emsp; &emsp; &emsp; &nbsp; 21.679.330-7
 <br>
 <br>
 
-## Tabla de contenidos
-* [2. Descripción del laboratorio](#descripción-del-laboratorio)
-* [3. Herramientas](#herramientas)
-* [4. Como ejecutar la simulación webots](#instrucciones)
-
-<br><br><br><br><br>
-
 ## 2. Descripción del laboratorio
 Este laboratorio tiene como objetivo realizar un análisis cinemático de un robot móvil diferencial mediante el software de simulación Webots. A través de la integración de conceptos sobre actuadores y modelos matemáticos de movimiento, se busca programar trayectorias específicas para evaluar el comportamiento dinámico del sistema y validar las fórmulas cinemáticas en un entorno controlado.  
 
