@@ -1,4 +1,4 @@
-# Laboratorio 1
+c# Laboratorio 1
 
 ### Integrantes
 <br>
@@ -17,9 +17,9 @@ Benjamín Leiva &emsp; &emsp; &emsp; &nbsp; 21.679.330-7
 <br>
 
 ## Tabla de contenidos
-* [Descripción del laboratorio](#descripción-del-laboratorio)
-* [Herramientas](#herramientas)
-* [Como ejecutar la simulación webots](#instrucciones)
+* [2. Descripción del laboratorio](#descripción-del-laboratorio)
+* [3. Herramientas](#herramientas)
+* [4. Como ejecutar la simulación webots](#instrucciones)
 
 <br><br><br><br><br>
 
